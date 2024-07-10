@@ -1,0 +1,18 @@
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/sunny.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/rain.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/cloudy.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/flurries.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/fog.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/mostlycloudy.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/mostlysunny.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/sleet.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/snow.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/mostlycloudy.png
+https://raw.githubusercontent.com/manifestinteractive/weather-underground-icons/master/dist/icons/white/png/256x256/tstorms.png
+
+
+ES GIBT AUCH ALLE IN DER NACHT VARIANTE. EINFACH VOR DAS WETTERWORT nt_ SCHREIBEN.
+
+
+
+
